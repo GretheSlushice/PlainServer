@@ -17,7 +17,7 @@ namespace ModelLib
 
         public override string ToString()
         {
-            return Model +", " + Color+ ", " + RegNumber;
+            return Model +"," + Color+ "," + RegNumber;
         }
     }
 }
